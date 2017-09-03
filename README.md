@@ -1,6 +1,6 @@
 ## Weather-search app
 
-DEMO: (https://youtube-live-search.herokuapp.com/) <br>
+DEMO: (https://weathercasters.herokuapp.com/) <br>
 Style: (http://www.material-ui.com/#/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
